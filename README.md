@@ -11,10 +11,6 @@
 * **[公寓大廈規約範本 (內政部)](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003879&kw=%e5%85%ac%e5%af%93%e5%a4%a7%e5%bb%88)**
 * **[公寓大廈管理報備事項處理原則](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003853&kw=%e5%85%ac%e5%af%93)**
 
-### 公寓大廈管理 Q&A
-
-待補
-
 ## 2. 物業管理與保全人員
 規範管理服務人員與保全公司之資格、責任與管理辦法。
 
@@ -26,7 +22,7 @@
 涉及公共安全申報、電梯維護、消防與避難空間之規定。
 
 * **[建築物公共安全檢查簽證及申報辦法](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003883&kw=%e5%85%ac%e5%af%93%e5%a4%a7%e5%bb%88)**
-* **建築物昇降設備設置及檢查管理辦法**
+* **[建築物昇降設備設置及檢查管理辦法](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003881&kw=%e5%85%ac%e5%af%93%e5%a4%a7%e5%bb%88)**
 * **[消防法](https://glrs.moi.gov.tw/LawContent.aspx?id=GL000065&kw=%e7%92%b0%e4%bf%9d)**
 * **[防空疏散避難設施建檔作業要點](https://glrs.moi.gov.tw/LawContent.aspx?id=FL004651&kw=%e5%85%ac%e5%af%93%e5%a4%a7%e5%bb%88)**
 
@@ -43,12 +39,13 @@
 ## 5. 其他相關法規與查詢系統
 * **[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)**
 * **[個人資料保護法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050022&kw=%e5%80%8b%e8%b3%87)**
-* **[住宅法]([1060406153731_M106015-3.pdf](https://www.dbaweb.tcg.gov.tw/taipeilaw/Files/img/1060406153731_M106015-3.pdf)**
+* **[住宅法](https://www.dbaweb.tcg.gov.tw/taipeilaw/Files/img/1060406153731_M106015-3.pdf)**
 * **[住宅法施行細則](https://glrs.moi.gov.tw/SearchAllResultList.aspx?KW=%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88&page=3)**
-
-## 
-
-* **事務人員證照查詢 (全國建築管理入口網)**
-* **保全物業登記查詢 / 訴訟案件判例**
 * **[商工登記公示資料查詢服務](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do)**
+* **[事務人員證照查詢 (全國建築管理入口網)](https://cloudbm.nlma.gov.tw/CPTL/index.jsp)**
+
+## Work In Progress
+* 公寓大廈管理 Q&A
+* **保全物業登記查詢**
+* **詢訴訟案件判例**
 * **議事規則**
