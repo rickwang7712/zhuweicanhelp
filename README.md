@@ -43,7 +43,7 @@
 ## 5. 其他相關法規與查詢系統
 * **[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)**
 * **[個人資料保護法施行細則](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050022&kw=%e5%80%8b%e8%b3%87)**
-* **[住宅法]([1060406153731_M106015-3.pdf](https://www.dbaweb.tcg.gov.tw/taipeilaw/Files/img/1060406153731_M106015-3.pdf))**
+* **[住宅法]([1060406153731_M106015-3.pdf](https://www.dbaweb.tcg.gov.tw/taipeilaw/Files/img/1060406153731_M106015-3.pdf)**
 * **[住宅法施行細則](https://glrs.moi.gov.tw/SearchAllResultList.aspx?KW=%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88&page=3)**
 
 ## 
