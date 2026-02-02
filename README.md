@@ -7,7 +7,7 @@
 社區運作之根本大法，規範區分所有權人會議、管委會運作及住戶權利義務。
 
 * **[公寓大廈管理條例](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003831&kw=%e5%85%ac%e5%af%93%e5%a4%a7%e5%bb%88)**
-* **[公寓大廈管理條例施行細則](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003881&kw=%e5%85%ac%e5%af%93%e5%a4%a7%e5%bb%88)**
+* **[公寓大廈管理條例施行細則](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003832&kw=%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%A2%9D%E4%BE%8B%E6%96%BD%E8%A1%8C)**
 * **[公寓大廈規約範本 (內政部)](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003879&kw=%e5%85%ac%e5%af%93%e5%a4%a7%e5%bb%88)**
 * **[公寓大廈管理報備事項處理原則](https://glrs.moi.gov.tw/LawContent.aspx?id=FL003853&kw=%e5%85%ac%e5%af%93)**
 
